@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jieun Lim / CV"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jieun"
 description              : &description "personal description"
 url                      : https://jieunlim1.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
