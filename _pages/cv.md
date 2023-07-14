@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Academic Background
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Harbin Wanbang School, 2023
+  - ASB Vice President - Junior to Senior Year
+* B.S in University of California, Irvine, 2027 (expected)
 
 Work experience
 ======
@@ -29,7 +29,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
+* Programming
+  * Python
+  * Java
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
