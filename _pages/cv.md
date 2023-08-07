@@ -30,11 +30,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications;
-======;
-  <ul>{% for post in site.publications %};
-    {% include archive-single-cv.html %};
-  {% endfor %}</ul>;
+;Publications;
+;======;
+;  <ul>{% for post in site.publications %};
+;    {% include archive-single-cv.html %};
+;  {% endfor %}</ul>;
   
 Talks
 ======
