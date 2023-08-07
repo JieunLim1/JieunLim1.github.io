@@ -10,7 +10,7 @@ tags:
 # Heading
 To Help You Survive in College
 ---
-# Open-Sourcing Q&A Chatbot with GPT!
+# Open-Sourcing Q&A Generator machine with GPT!
 
 TL;DR
 
