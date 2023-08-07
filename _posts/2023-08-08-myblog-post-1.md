@@ -18,6 +18,20 @@ This is an application that is developed for people, especially for students who
 What makes it special is that it not simply creates problems but creates various questions that do not repeat as the user wants. It also checks the answer written by the user and provides feedback that guides the user to the points that could be improved.
 DO NOT CRAM BEFORE THE TEST DAY!
 
+There exist AI question-generating machines that simply create one question out of time. Or there exist machines that output the same question again and again as long as the text is the same. But what if it creates a test paper with various questions that are categorized by the subjects? This is where Q&A Generator machine comes in. 
+
+<img width="502" alt="image" src="https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/6d7cd5d3-44fd-4bde-8d4e-58d7dd70cdd5">
+
+The system consists of two blocks(not obviously), which are the question generator and response (answer key matching) blocks. 
+The first block is responsible for creating questions as many as the user orders according to the context given by the user. The context could be a text or weblink for notes in Notion, which makes college students much more convenient as it reduces their task to copy and paste lecture notes. The system requires the machine to generate different questions from each other to make sure that the test paper covers the full content of the context. 
+
+As shown in the figure, each chain has a corresponding memory object. It saves the context, generated question, user’s response, and result with its own ID value. When one cycle of a chain is done, it saves all the data and sends it back to the chain so that the next generated question does not repeat the same question again.  
+
+The final block, or marking chain, is in charge of marking the user’s response to a question based on the model answer or an answer provided when generating the question. After, it saves the results on its system so that it makes the next version of reviewing material collected by previous incorrect questions. 
+
+
+
+
 
 
 
