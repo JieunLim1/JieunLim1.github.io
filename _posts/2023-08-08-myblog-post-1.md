@@ -20,7 +20,9 @@ DO NOT CRAM BEFORE THE TEST DAY!
 
 There exist AI question-generating machines that simply create one question out of time. Or there exist machines that output the same question again and again as long as the text is the same. But what if it creates a test paper with various questions that are categorized by the subjects? This is where Q&A Generator machine comes in. 
 
-# Here goes Image
+![IMG_0364](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/92afcbe8-66a5-42ac-a4ca-31bc5554210d)
+![IMG_0366](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/83614522-653b-429f-8a61-4a8546725142)
+
 The system consists of two blocks(not obviously), which are the question generator and response (answer key matching) blocks. 
 The first block is responsible for creating questions as many as the user orders according to the context given by the user. The context could be a text or weblink for notes in Notion, which makes college students much more convenient as it reduces their task to copy and paste lecture notes. The system requires the machine to generate different questions from each other to make sure that the test paper covers the full content of the context. 
 
