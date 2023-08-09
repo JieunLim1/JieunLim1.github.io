@@ -32,7 +32,7 @@ The final block, or marking chain, is in charge of marking the user’s response
 To add on, while reviewing, the most significant thing is to know what to study and make up the gap in knowledge. The machine notices the answer but also "Things to improve" in order to assist the full review process.
 
 To jump into the memory part, this is how the relational information is saved. 
-![image](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/49a9a5b7-c9f0-4e80-943f-ef9e471f98ab)
+![image](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/c5ac44db-0b93-4f0b-b498-4b7ead2d6899)
 The image shows the ERD ( Entity Relational Diagram ). 
 
 * Data Normalization
