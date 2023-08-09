@@ -24,17 +24,18 @@ There exist AI question-generating machines that simply create one question out 
 ![IMG_0366](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/83614522-653b-429f-8a61-4a8546725142)
 
 The system consists of two blocks(not obviously), which are the question generator and response (answer key matching) blocks. 
-The first block is responsible for creating questions as many as the user orders according to the context given by the user. The context could be a text or weblink for notes in Notion, which makes college students much more convenient as it reduces their task to copy and paste lecture notes. The system requires the machine to generate different questions from each other to make sure that the test paper covers the full content of the context. 
+The first block is responsible for creating questions as many as the user orders according to the given context. The context could be a text or weblink for notes in Notion, which makes college students much more convenient as it reduces their task to copy and paste lecture notes. The system requires the machine to generate different questions from each other to make sure that the test paper covers the full content of the context. 
 
-As shown in the figure, each chain has a corresponding memory object. It saves the context, generated question, user’s response, and result with its own ID value. When one cycle of a chain is done, it saves all the data and sends it back to the chain so that the next generated question does not repeat the same question again.  
+As shown in the figure, each chain has a corresponding memory object. It saves the context, generated questions, user’s responses, and results with its own ID value. When one loop in a block is done, it sends the data back to the beginning of the next loop so that it does not duplicate making the same questions again.  
 
-The final block, or marking chain, is in charge of marking the user’s response to a question based on the model answer or an answer provided when generating the question. After, it saves the results on its system so that it makes the next version of reviewing material collected by previous incorrect questions. 
-
+The final block, or marking chain, is in charge of marking the user’s response based on the "Model Answer", or an answer provided when generating the question". After, it saves the results on its system so that it makes the next version of reviewing material collected by previous incorrect questions. 
+To add on, while reviewing, the most significant thing is to know what to study and make up the gap in knowledge. The machine notices the answer but also "Things to improve" in order to assist the full review process.
 
+To jump into the memory part, this is how the relational information is saved. 
+![image](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/49a9a5b7-c9f0-4e80-943f-ef9e471f98ab)
+The image shows the ERD ( Entity Relational Diagram ). 
 
-
-
-
-
-
-
+* Data Normalization
+  The benefit of normalization, or splitting the tables into separate tables, is to reduce the duplication of unnecessary columns and anomalies (a phenomenon that could occur while adding, editing, and deleting the data).
+  Another special function of this application is that it creates a paper that collects all the incorrect questions the user gets from a certain subject. This is an example of using the join function that joins the split data.
+  
