@@ -38,4 +38,8 @@ The image shows the ERD ( Entity Relational Diagram ).
 * Data Normalization
   The benefit of normalization, or splitting the tables into separate tables, is to reduce the duplication of unnecessary columns and anomalies (a phenomenon that could occur while adding, editing, and deleting the data).
   Another special function of this application is that it creates a paper that collects all the incorrect questions the user gets from a certain subject. This is an example of using the join function that joins the split data.
+
+  However, the current limitation of this application occurs when the provided text is relatively short to create a few questions. It is difficult to create questions that do not overlap from a short context. To prevent generating overlap questions, the context should be long enough to exert the essential part and create questions. This limitation could be overcome when the machine could exert one question per certain length of a context such as a paragraph. This prevents duplication of generating the same questions and makes the user thoroughly review the context.
+
+
   
