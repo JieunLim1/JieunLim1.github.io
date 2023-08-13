@@ -29,7 +29,17 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Activities
+  
+Language
 ======
-* Currently signed in to 43 different slack teams
+Korean •••••
+English ••••
+Chinese ••••
+
+Projects
+======
+*College Survival
+- An application that assists users in reviewing materials by creating a test paper and checking the answers.
+- SKILLS: Python, Streamlit
+
+  
