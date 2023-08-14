@@ -32,9 +32,9 @@ Skills
   
 Language
 ======
-Korean •••••
-English ••••
-Chinese ••••
+Korean 
+English
+Chinese
 
 Projects
 ======
