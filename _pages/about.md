@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 About ME
 =======
 Jieun Lim is an international student at UC Irvine, majoring in Computer Science. 
