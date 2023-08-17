@@ -24,22 +24,24 @@ Skills
 * Programming
   * Python
   * Java
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
   
 Language
 ======
-Korean 
-English
-Chinese
+
+Korean - mother language
+
+English - fluent
+
+Chinese - fluent
 
 Projects
 ======
-*College Survival
-- An application that assists users in reviewing materials by creating a test paper and checking the answers.
-- SKILLS: Python, Streamlit
+
+College Survival
+
+- built a web application that allows users to review materials of any subject by creating a test paper from the given context and checking the answers
+- uses ChatGPT to create questions and check the answers
+- Python, Streamlit
 
   
