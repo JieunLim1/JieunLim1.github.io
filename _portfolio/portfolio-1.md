@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "College Survival"
+excerpt: "Things I learned in College Survival Project <br/><img src='https://github.com/JieunLim1/college_survival/raw/main/image.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Blog](https://jieunlim1.github.io//posts/jieun-blog-post-1/)
+[Github](https://github.com/JieunLim1/college_survival)
