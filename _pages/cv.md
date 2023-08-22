@@ -21,10 +21,19 @@ Work experience
   
 Skills
 ======
-* Programming
+* Programming Language
   * Python
+    - Streamlit
+    - Openai API
   * Java
-
+* Database
+  - SQLite
+* IDE
+  - vscode
+* SVM (Source Code Version Management)
+  - git
+  - github
+* Markdown
   
 Language
 ======
