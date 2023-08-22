@@ -1,14 +1,12 @@
 ---
-title: 'Blog Post number 1'
+title: 'College Survival'
 date: 2023-08-08
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/jieun-blog-post-1/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - LLM
+  - AI in Education
 ---
-# Heading
-To Help You Survive in College
+# To Help You Survive in College
 ---
 # Open-Sourcing Q&A Generator machine with GPT!
 
