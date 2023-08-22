@@ -1,6 +1,6 @@
 ---
-title: "College Survival"
-excerpt: "Things I learned in College Survival Project <br/><img src='https://github.com/JieunLim1/college_survival/raw/main/image.png'>"
+title: "College Survival Project"
+excerpt: "QA Generator Machine <br/><img src='https://github.com/JieunLim1/college_survival/raw/main/image.png'>"
 collection: portfolio
 ---
 
