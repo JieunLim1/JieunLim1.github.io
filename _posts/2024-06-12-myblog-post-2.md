@@ -10,15 +10,15 @@ tags:
 # # Make Sustainable Fashion Easier
 ---
 # Recycle with Stycle 
-Motiation:
+Motiation🌱:
 The inspiration for Stycle came from a simple but important question:
 "Where does our clothing go after we’re done with it?"
 
-As students at UCI, we realized that while many of us wanted to donate or recycle our clothes, we didn’t always know how or where to do it. Thrifting is trendy, but sustainable action often feels inconvenient or confusing. There was a clear need for a platform that made sustainable choices more accessible, visible, and empowering—especially for students who care but don’t know where to start.
+As students at UCI, we realized that while many of us wanted to donate or recycle our clothes, we didn’t always know how or where to do it. Thrifting is trendy, but sustainable action often feels inconvenient or confusing. There was a clear need for a platform that made sustainable choices more accessible, visible, and empowering.
 
 Stycle was created to bridge that gap.
 
---
+---
 # TL;DR
 
 Stycle is a React-based website designed to promote sustainable fashion and encourage clothing donations at UCI. The platform educates users on the impact of fast fashion, provides donation guidelines, and helps locate nearby donation bins like Goodwill’s on campus. Features include thrift store discovery, ways to repurpose clothes, and collaboration with local sustainability partners.
@@ -43,14 +43,16 @@ Stycle tackles this challenge through a clean, engaging, and informative web exp
 ---
 ## A Quick Tour
 
-![Image](https://github.com/user-attachments/assets/ef03fb5e-017d-4d45-a507-31a332f988a2)
 **Home page** welcoming users into the world of thrifting and sustainability.
+![Image](https://github.com/user-attachments/assets/ef03fb5e-017d-4d45-a507-31a332f988a2)
 
-![Image](https://github.com/user-attachments/assets/e9dd7c0b-266a-4a56-aad8-304deb71e41d) 
+
 **Donation section** explains guidelines, categories, and lets users search by ZIP code.
+![Image](https://github.com/user-attachments/assets/e9dd7c0b-266a-4a56-aad8-304deb71e41d) 
 
-![Image](https://github.com/user-attachments/assets/bad6ba50-8288-4a3e-a7bd-6b600aa96649)
+
 **Repurpose section** shows ways to extend the life of your clothing.
+![Image](https://github.com/user-attachments/assets/bad6ba50-8288-4a3e-a7bd-6b600aa96649)
 
 ---
 
