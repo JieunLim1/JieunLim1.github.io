@@ -14,9 +14,9 @@ tags:
 
 This is an application that is developed for people, especially for students who would like to test themselves by reviewing materials. It creates problems based on the context that is provided by the user (it may be a note from lectures or a weblink from Notion). 
 What makes it special is that it not simply creates problems but creates various questions that do not repeat as the user wants. It also checks the answer written by the user and provides feedback that guides the user to the points that could be improved.
-DO NOT CRAM BEFORE THE TEST DAY!
+DO NOT CRAM BEFORE THE TEST DAY! 🚨🚨🚨
 
-There exist AI question-generating machines that simply create one question out of time. Or there exist machines that output the same question again and again as long as the text is the same. But what if it creates a test paper with various questions that are categorized by the subjects? This is where Q&A Generator machine comes in. 
+There exist AI question-generating machines that simply create one question out of time. Or there exist machines that output the same question again and again as long as the text is the same. But what if it creates a test paper with various questions that are categorized by the subjects? This is where Q&A Generator machine comes in. ✏️📚
 
 ![IMG_0364](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/92afcbe8-66a5-42ac-a4ca-31bc5554210d)
 ![IMG_0366](https://github.com/JieunLim1/JieunLim1.github.io/assets/136796436/83614522-653b-429f-8a61-4a8546725142)
