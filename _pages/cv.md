@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# SUMMARY
-Motivated Computer Science student with project-based experience in **AI integration, web development**, and **data analysis**. Skilled in building **user-centric tools** that enhance education and sustainability. Seeking opportunities to apply technical knowledge in innovative, real-world applications.
-
 ---
 
 # EDUCATION
