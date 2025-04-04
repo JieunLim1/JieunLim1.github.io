@@ -29,8 +29,7 @@ GPA: 4.0/4.0
 **Vice President – LIKELION_US**  
 
 **Learning Assistant – ICS32**  
-*University of California, Irvine*  
-Feb 2025 – Present  
+*University of California, Irvine*    
 - Assisted students in programming labs, providing guidance on debugging and assignment completion.
 
 **Project Manager – Bap** *(In Progress)*  
