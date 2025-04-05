@@ -48,16 +48,16 @@ After adjustments are done, Re;Magic generates a **.vtt file** that can be uploa
 
 ## Features
 
-🎞️ **Auto-Matching**  
+**Auto-Matching**  
 Automatically matches subtitles with the video timeline using JSON metadata.
 
-🧩 **Manual Editing**  
+**Manual Editing**  
 Fix any mismatches with ease.
 
-📄 **VTT File Export**  
+**VTT File Export**  
 Exports clean subtitle files in `.vtt` format for easy upload.
 
-💻 **Simple UI**  
+**Simple UI**  
 Built with **React** for a responsive and lightweight experience.
 
 ---
