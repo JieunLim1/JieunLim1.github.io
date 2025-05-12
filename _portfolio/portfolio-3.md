@@ -1,6 +1,6 @@
 ---
 title: "Re;magic"
-excerpt: "Magic your Videos <br/><img src='https://github.com/JieunLim1/Magic-front/blob/main/public/remagicCover.png'>"
+excerpt: "Magic your Videos <br/><img src='https://github.com/JieunLim1/Magic-front/blob/main/public/remagicCover.png?raw=true'>"
 collection: portfolio
 ---
 
