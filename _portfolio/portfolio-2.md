@@ -1,6 +1,6 @@
 ---
 title: "Stycle"
-excerpt: "Recycle with Stycle <br/><img src='https://github.com/jjungeunhong/stycle_likelion_front/blob/main/my-app/public/stycle_homepage.png?raw=true' width='300' height='200'>"
+excerpt: "Recycle with Stycle <br/><img src='https://github.com/jjungeunhong/stycle_likelion_front/blob/main/my-app/public/stycle_homepage.png?raw=true' width='350' height='250'>"
 collection: portfolio
 ---
 

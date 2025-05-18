@@ -17,20 +17,20 @@ tags:
 
 # TL;DR
 
-**Re;Magic** is a web-based tool that automates the process of syncing YouTube video scenes with subtitle files using JSON input. Designed for content creators, educators, and students, it eliminates the need for manual timestamp adjustments.  
-If the system detects mismatched captions, the user can easily **edit the timeline** through an intuitive interface. In the end, Re;Magic exports the finalized subtitle file as a **.vtt**, ready to be used on YouTube or other platforms.
+**Re;Magic** is a web-based tool that automatically converts caption files in **JSON format** into standard **VTT subtitles**—with built-in editing support. Designed for content creators, educators, and accessibility advocates, it streamlines the entire process of syncing captions to video scenes.
 
-Ever spent hours adjusting subtitles to match your video timeline? That’s where **Re;Magic** comes in—it saves time and makes the editing process smarter and cleaner. 🧠⚙️
+Just upload your JSON file and a YouTube link. Re;Magic will align the captions automatically. If anything is off, you can adjust the timestamps visually using our editor—no technical knowledge required.  
+Once finalized, download the `.vtt` file and upload it wherever captions are supported.
+
+Save time. Stay accurate. Keep control.
 
 ---
 
 ## Why did we build this?
 
-We noticed that a lot of video editors, especially those working with lectures or content for accessibility, waste hours trying to match captions with fast-moving scenes. JSON-formatted captions are great for structure but frustrating to edit manually. So, we asked ourselves:
+We noticed that many editors—especially those working on educational or accessibility content—waste time manually aligning captions frame by frame. JSON is a common format for structured caption data, but most platforms only accept `.vtt` or `.srt`.
 
-**"What if we could build a smart tool that aligns it all for you?"**
-
-And that’s how Re;Magic was born.
+Re;Magic bridges that gap by **automating the conversion**, and providing an **intuitive UI** to review and adjust the results before export.
 
 ---
 
@@ -63,7 +63,7 @@ Built with **React** for a responsive and lightweight experience.
 ---
 
 ## Screenshot Preview
-
+<img width="1470" alt="ImageTest" src="![Image](https://github.com/user-attachments/assets/6778c80f-3001-4730-aa0a-7d56fce0f2f3)">
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/2459dce1-6844-41a2-8c72-58078ecf549e" />
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/e3481870-43a0-43fa-bf5e-4012fb86ca3f" />
 <img width="1470" alt="Image" src="https://github.com/user-attachments/assets/83a3635a-a84c-4d54-a15c-0b3137975656" />

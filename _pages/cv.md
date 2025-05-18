@@ -61,7 +61,7 @@ July 2024 – September 2024
 - Enabled manual adjustments and exported finalized **.vtt** files.  
 - Streamlined video editing and captioning.
 
-### **ZotTrack – Multi-Agent System for Academic Advising**  
+### **ZotTrack – Multi-Agent System for Academic Advising** (In Progress) 
 *Full Stack Development*  
 - Developed a system that tracks **degree progress** and recommends classes based on incomplete GE/major requirements.  
 - Integrated **Zotistics** for grade distribution data and **Rate My Professor** for instructor reviews.  
