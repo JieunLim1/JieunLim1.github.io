@@ -63,13 +63,10 @@ Built with **React** for a responsive and lightweight experience.
 ---
 
 ## Screenshot Preview
-<img width="1470" alt="ImageTest" src="![Image](https://github.com/user-attachments/assets/6778c80f-3001-4730-aa0a-7d56fce0f2f3)">
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/2459dce1-6844-41a2-8c72-58078ecf549e" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/e3481870-43a0-43fa-bf5e-4012fb86ca3f" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/83a3635a-a84c-4d54-a15c-0b3137975656" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/df29a9dd-9b86-4a94-b869-c6328423e075" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4cd3327f-7d6f-4731-9a4b-d8aef1b6477f" />
-<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/8d3997f4-274b-485c-b9f7-0eb5422fcae3" />
+<img width="1470" alt="ImageTest" src="https://github.com/JieunLim1/Magic-front/blob/main/public/3.png?raw=true">
+<img width="1470" alt="Image" src="https://github.com/JieunLim1/Magic-front/blob/main/public/4.png?raw=true" />
+<img width="1470" alt="Image" src="https://github.com/JieunLim1/Magic-front/blob/main/public/5.png?raw=true" />
+
 
 ---
 
