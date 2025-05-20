@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Jieun Lim CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Download My CV (PDF)](/files/JieunLim_CV.pdf)
 ---
 
 # EDUCATION
@@ -32,23 +32,24 @@ GPA: 4.0/4.0
 *University of California, Irvine*    
 - Assisted students in programming labs, providing guidance on debugging and assignment completion.
 
-**Project Manager – Bap** *(In Progress)*  
-- Leading development of a web app that uses the **Yelp API** to dynamically recommend restaurants with user-customized filters.  
-- Overseeing **UI/UX**, **API integration**, and **team coordination**.
+**Project Manager – Babpago** 
+*(In Progress)*  
+- Coordinating an 8-member team to integrate the Yelp API, manage UI/UX flow, and ensure real-time data handling across backend and frontend systems.
 
 ---
 
 # PROJECT EXPERIENCE
 
 ### **College Survival – AI-Powered Study Assistant**  
-*Python, Streamlit, OpenAI API*  
+*Back-End Development* 
 July 2023 – August 2023  
-- Built a web application that allows users to review study materials by generating tests from user-provided content.  
-- Generated multiple-choice and free-response questions using ChatGPT.  
-- Implemented answer-checking and review features to help users reflect on incorrect answers.
+- Built a web application that helps students self-assess their understanding by generating quizzes from custom input (e.g., lecture notes, Notion pages).
+- Used the ChatGPT API to dynamically generate multiple-choice and free-response questions, ensuring variation and relevance to the input content.
+- Implemented a grading system that evaluates user-submitted answers and provides feedback pointing out key areas for improvement.
+- Designed a feature that collects and categorizes incorrect answers into a review set, enabling targeted revision.
 
 ### **Stycle – Thrifting Awareness & Donation Guide**  
-*React, JavaScript, UI/UX*  
+*Front-End Development*  
 April 2024 – June 2024  
 - Built a React-based website to promote **sustainable fashion** and highlight donation bins at UCI (e.g., Goodwill).  
 - Provided guidelines for donating and an interactive **bin locator**.  
@@ -67,6 +68,11 @@ July 2024 – September 2024
 - Integrated **Zotistics** for grade distribution data and **Rate My Professor** for instructor reviews.  
 - Helped students plan schedules more efficiently.
 
+### ** Babpago** - Yelp-Based Restaurant Swiping App (In Progress)* 
+*Backend Developer*
+- Developing a backend system that supports **dynamic restaurant swiping** based on user-defined filters like location, price, and dietary preferences.
+- Integrating the **Yelp API** to fetch real-time restaurant data with search and filter functionality.
+- Building **RESTful API endpoints** to support interactive front-end experiences such as likes, reviews, and restaurant metadata display.
 ---
 
 # SKILLS
