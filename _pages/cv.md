@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 [Download My CV (PDF)](/files/JieunLim_CV.pdf)
+
 ---
 
 # EDUCATION
@@ -16,7 +17,7 @@ redirect_from:
 **University of California, Irvine**  
 Bachelor of Science in Computer Science  
 Expected June 2027  
-GPA: 4.0/4.0
+GPA: 3.98/4.0
 
 **Harbin Wanbang International High School**  
 2019 – 2023  
@@ -24,19 +25,13 @@ GPA: 4.0/4.0
 
 ---
 
-# Extracurricular
+# WORK EXPERIENCE
 
-**Vice President – LIKELION_US**  
-
-**Learning Assistant – ICS32**  
-*University of California, Irvine*    
-- Assisted students in programming labs, providing guidance on debugging and assignment completion.
-
-**Project Manager – Babpago** 
-*(In Progress)*  
-- Coordinating an 8-member team to integrate the Yelp API, manage UI/UX flow, and ensure real-time data handling across backend and frontend systems.
-
----
+**Search AI Intern | User Signal – NAVER Corp. Korea**
+Search AI Research & Development July 2025 – August 2025
+- Formulated and evaluated LLM-driven query expansion strategies within a retrieval framework to enhance search relevance.
+- Systematically compared prompt configurations and expansion techniques under multiple evaluation metrics to optimize model performance.
+- Performed structured quantitative analysis to assess generalization and retrieval effectiveness across diverse datasets.
 
 # PROJECT EXPERIENCE
 
@@ -62,24 +57,39 @@ July 2024 – September 2024
 - Enabled manual adjustments and exported finalized **.vtt** files.  
 - Streamlined video editing and captioning.
 
-### **ZotTrack – Multi-Agent System for Academic Advising** (In Progress) 
-*Full Stack Development*  
-- Developed a system that tracks **degree progress** and recommends classes based on incomplete GE/major requirements.  
-- Integrated **Zotistics** for grade distribution data and **Rate My Professor** for instructor reviews.  
-- Helped students plan schedules more efficiently.
 
-### ** Babpago** - Yelp-Based Restaurant Swiping App (In Progress)* 
+### **Babpago - Yelp-Based Restaurant Swiping App** 
 *Backend Developer*
 - Developing a backend system that supports **dynamic restaurant swiping** based on user-defined filters like location, price, and dietary preferences.
 - Integrating the **Yelp API** to fetch real-time restaurant data with search and filter functionality.
 - Building **RESTful API endpoints** to support interactive front-end experiences such as likes, reviews, and restaurant metadata display.
+
+### **NudgingPocket - AI-Based Personal Finance Manager**
+*Backend Developer*
+
+- Engineered an AI-powered spending analysis system that leverages LLMs to evaluate 3-month transaction trends, providing adaptive budget goals that account for spending volatility rather than simple arithmetic averages.
+- Integrated Generative AI (LLMs) to deliver personalized financial notifications and behavioral nudges, transforming raw PostgreSQL transaction data into actionable natural language insights.
+- Designed and implemented a relational database schema using PostgreSQL and Prisma ORM, ensuring type-safety and data integrity across the entire financial tracking and analysis pipeline.
+---
+
+# Extracurricular
+
+**Vice President – LIKELION_US**  
+
+**Learning Assistant – ICS32**  
+*University of California, Irvine*    
+- Assisted students in programming labs, providing guidance on debugging and assignment completion.
+
+**Project Manager – Babpago**  
+- Coordinating an 8-member team to integrate the Yelp API, manage UI/UX flow, and ensure real-time data handling across backend and frontend systems.
+
 ---
 
 # SKILLS
 
-**Programming Languages**: Python, C++, Java, JavaScript  
+**Programming Languages**: Python, C++, Java, JavaScript, Typescript
 **Web Development**: React JS, Streamlit, React Native  
-**Database**: SQLite  
+**Database**: SQLite, PostgreSQL
 **Tools**: Git, GitHub, Figma  
 
 ---
