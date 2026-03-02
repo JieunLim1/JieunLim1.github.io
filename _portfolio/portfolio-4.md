@@ -1,6 +1,6 @@
 ---
 title: "Bapago"
-excerpt: "Swipe and Add your restaurants <br/><img src='https://github.com/sunnyki0507/likelion-project/blob/main/YelpSwipe.png?raw=true' width='300' height='200' />"
+excerpt: "Swipe and Add your restaurants <br/><img src='https://github.com/sunnyki0507/likelion-project/blob/main/bapago.png?raw=true' width='300' height='200' />"
 collection: portfolio
 ---
 
