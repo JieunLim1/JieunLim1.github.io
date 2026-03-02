@@ -1,5 +1,5 @@
 ---
-title: "Bapagp"
+title: "Bapago"
 excerpt: "Swipe and Add your restaurants <br/><img src='https://github.com/JieunLim1/Magic-front/blob/main/public/remagicCover.png?raw=true' width='300' height='200' />"
 collection: portfolio
 ---

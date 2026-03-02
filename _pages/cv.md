@@ -70,6 +70,7 @@ July 2024 – September 2024
 - Engineered an AI-powered spending analysis system that leverages LLMs to evaluate 3-month transaction trends, providing adaptive budget goals that account for spending volatility rather than simple arithmetic averages.
 - Integrated Generative AI (LLMs) to deliver personalized financial notifications and behavioral nudges, transforming raw PostgreSQL transaction data into actionable natural language insights.
 - Designed and implemented a relational database schema using PostgreSQL and Prisma ORM, ensuring type-safety and data integrity across the entire financial tracking and analysis pipeline.
+
 ---
 
 # Extracurricular
