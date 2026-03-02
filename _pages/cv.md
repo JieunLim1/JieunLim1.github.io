@@ -27,8 +27,8 @@ GPA: 3.98/4.0
 
 # WORK EXPERIENCE
 
-**Search AI Intern | User Signal – NAVER Corp. Korea**
-Search AI Research & Development July 2025 – August 2025
+### **Search AI Intern | User Signal – NAVER Corp. Korea**
+*Search AI Research & Development July 2025 – August 2025*
 - Formulated and evaluated LLM-driven query expansion strategies within a retrieval framework to enhance search relevance.
 - Systematically compared prompt configurations and expansion techniques under multiple evaluation metrics to optimize model performance.
 - Performed structured quantitative analysis to assess generalization and retrieval effectiveness across diverse datasets.
